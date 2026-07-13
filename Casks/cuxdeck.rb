@@ -1,6 +1,6 @@
 cask "cuxdeck" do
-  version "0.1.0"
-  sha256 "a12726119a20c9926bfdbbebc77a3a6c9654287638a6e1d720757235b9a584a5"
+  version "0.1.1"
+  sha256 "faf89e245f9f602a6974595f18eed59ccdebf8bce136295dd303e676c0503427"
 
   url "https://github.com/centrual/cuxdeck/releases/download/v#{version}/cuxdeck-#{version}-darwin-universal.dmg"
   name "cuxdeck"
